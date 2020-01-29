@@ -1,0 +1,3 @@
+C:\Users\yeh71\source\repos\3.10 Programming Exercise\3.10 Programming Exercise\obj\Debug\netcoreapp3.1\3.10 Programming Exercise.csprojAssemblyReference.cache
+C:\Users\yeh71\source\repos\3.10 Programming Exercise\3.10 Programming Exercise\obj\Debug\netcoreapp3.1\3.10 Programming Exercise.AssemblyInfoInputs.cache
+C:\Users\yeh71\source\repos\3.10 Programming Exercise\3.10 Programming Exercise\obj\Debug\netcoreapp3.1\3.10 Programming Exercise.AssemblyInfo.cs
